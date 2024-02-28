@@ -1,2 +1,2 @@
 # super
-Hierarchical clusetering and data visualization
+Methylation analysis and calculation of differentially methilated probes.
